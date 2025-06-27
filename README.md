@@ -54,11 +54,21 @@ This web application is built using **Streamlit** and provides users with an int
 
 ### 1. Clone the Repository
 
-```bash
+```bash   
 git clone https://github.com/your-username/health-status-diagnosis-app.git
 cd health-status-diagnosis-app
-bash```
-
-###2. Install Dependencies
+```
+### 2. Install Dependencies
 ```bash
 pip install -r Requirements.txt
+```
+### 3. Launch the App
+```bash
+streamlit run App.py
+```
+## 🧭 How to Use
+-**Choose either Medical Health or Mental Health from the sidebar**
+
+-**Enter the required information**
+
+-**Click Predict to get your health status and helpful suggestions**
