@@ -67,8 +67,8 @@ pip install -r Requirements.txt
 streamlit run App.py
 ```
 ## 🧭 How to Use
-**Choose either Medical Health or Mental Health from the sidebar**
+**1.Choose either Medical Health or Mental Health from the sidebar.**
 
-**Enter the required information**
+**2.Enter the required information.**
 
-**Click Predict to get your health status and helpful suggestions**
+**3.Click Predict to get your health status and helpful suggestions.**
