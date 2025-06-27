@@ -57,3 +57,8 @@ This web application is built using **Streamlit** and provides users with an int
 ```bash
 git clone https://github.com/your-username/health-status-diagnosis-app.git
 cd health-status-diagnosis-app
+---
+
+###2. Install Dependencies
+```bash
+pip install -r Requirements.txt
