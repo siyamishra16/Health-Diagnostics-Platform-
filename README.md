@@ -79,6 +79,8 @@ Install the necessary Python packages via:
 ```bash
 pip install -r Requirements.txt
 ```
+### ScreenShots
+
 ## ⚠️ Disclaimer
 
 This app is for **educational and demonstration purposes only**.  
@@ -93,5 +95,3 @@ Always consult a healthcare provider for medical or psychological concerns.
 - Store user sessions/history  
 - Deploy online with Streamlit Cloud or Heroku  
 - Improve model accuracy with more diverse datasets
-
-### ScreenShots
