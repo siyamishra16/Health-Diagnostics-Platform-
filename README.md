@@ -23,6 +23,7 @@ This web application is built using **Streamlit** and provides users with an int
 - **Medical Health.ipynb: Notebook for training the medical model**
 - **Mental Health.ipynb: Notebook for training the mental health model**
 - **README.md: Documentation file providing an overview of the project**
+- **Requirements.txt: List of required Python packages for the project**
 
 ## 🧠 Model Details
 
@@ -56,8 +57,3 @@ This web application is built using **Streamlit** and provides users with an int
 ```bash
 git clone https://github.com/your-username/health-status-diagnosis-app.git
 cd health-status-diagnosis-app
-
-
-
-
-
