@@ -72,3 +72,26 @@ streamlit run App.py
 **2.Enter the required information.**
 
 **3.Click Predict to get your health status and helpful suggestions.**
+
+### 📦 Requirements
+Install the necessary Python packages via:
+
+```bash
+pip install -r Requirements.txt
+```
+## ⚠️ Disclaimer
+
+This app is for **educational and demonstration purposes only**.  
+It does **not replace professional medical advice**.  
+Always consult a healthcare provider for medical or psychological concerns.
+
+---
+
+## 🛠️ Possible Improvements
+
+- Add data visualizations to results  
+- Store user sessions/history  
+- Deploy online with Streamlit Cloud or Heroku  
+- Improve model accuracy with more diverse datasets
+
+### ScreenShots
