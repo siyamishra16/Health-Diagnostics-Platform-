@@ -24,6 +24,39 @@ This web application is built using **Streamlit** and provides users with an int
 - **Mental Health.ipynb: Notebook for training the mental health model**
 - **README.md: Documentation file providing an overview of the project**
 
+## 🧠 Model Details
+
+### 🫀 Medical Health Prediction
+- **Model**: Logistic Regression (`LR_model.pkl`)
+- **Input Features**:
+  - Gender
+  - Age
+  - Blood Pressure
+  - Cholesterol Level
+  - BMI
+  - Smoking Status
+  - Diabetes Status
+
+### 🧠 Mental Health Prediction
+- **Model**: Decision Tree (`DT_model.pkl`)
+- **Input Features**:
+  - Gender
+  - Country
+  - Occupation
+  - Stress Levels
+  - Coping Mechanisms
+  - Self-care History
+
+---
+
+## 💻 How to Run the App
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/health-status-diagnosis-app.git
+cd health-status-diagnosis-app
+
 
 
 
