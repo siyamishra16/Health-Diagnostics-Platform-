@@ -17,18 +17,12 @@ This web application is built using **Streamlit** and provides users with an int
 
 ## 🗂️ File Structure
 - **App.py: Main Streamlit application file**
-- **LR_model.pkl  Logistic Regression model for medical health
-- **DT_model.pkl # Decision Tree model for mental health
-- **Medical Health.ipynb # Notebook for training the medical model
-- **Mental Health.ipynb # Notebook for training the mental health model
-- **Requirements.txt # Python dependencies
-- **.md # Project documentation
-- **bad.png # Image assets for prediction result
-- **bad1.png
-- **fair.png
-- **fair1.png
-- **good.png
-- **good1.png
+- **Images/: Contains UI-related images**
+- **LR_model.pkl  Logistic Regression model for medical health**
+- **DT_model.pkl # Decision Tree model for mental health**
+- **Medical Health.ipynb # Notebook for training the medical model**
+- **Mental Health.ipynb # Notebook for training the mental health model**
+- **README.md: Documentation file providing an overview of the project**
 
 
 
